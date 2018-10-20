@@ -1,26 +1,28 @@
-public class Main {
+public class Main
+
+{
 
     public static void main(String[] args)
 
-
+            //short x1;
     {
+            //long
 
-        int x, y, z, a;
-        z=1;
-        x = 9;
-        y = 5;
-        a = z + x + y;
+       int x, y, z;
+
+       x = 1;
+       y =2;
+
+        System.out.println("X= " + x + "    Y =" + y );
 
 
-        System.out.println( x);
-
-        System.out.println( y);
-
-        System.out.println( z);
-
-        System.out.println( a);
 
 
 
     }
+
+      {
+
+
+      }
 }
